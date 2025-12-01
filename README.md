@@ -6,7 +6,8 @@ A clean and interactive React application that demonstrates how to implement Dar
 
 ## 📸 Project Screenshot
 
-![App Screenshot](./preview.png)
+<img width="1436" height="853" alt="Screenshot 2025-12-01 at 4 38 02 PM" src="https://github.com/user-attachments/assets/b9cec402-fbeb-4543-9a22-fc8b83fe918d" />
+
 
 ## ✨ Features
 
